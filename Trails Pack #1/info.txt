@@ -1,0 +1,31 @@
+"AddonInfo"
+{
+	"name" "Custom Trails Pack (For Pointshop)"
+	"author_name" "author"
+	"info" "[B]DROPBOX/DIRECT DOWNLOAD:[/B]
+https://www.dropbox.com/s/xgbxk20yh5p6ye0/Trails.zip?
+
+Here's a small custom trails pack I put together, while messing around on Photoshop. This is originally for Empyrean-Gaming.co.uk's WiP Minigames server and not everything has been included here. My graphic settings are on low and the script errors in the corner are from an unrelated menu I never finished. 
+
+In this pack you'll find;
+
+1. Paw Prints
+2. Footprints
+3. Girl Power
+4. Handprints
+5. Male Trail
+6. Musical Notes
+7. Red Arrow
+
+These files are located inside [i]materials/trails[/i]. For example, [i]materials/trails/pawprints.vmt[/i] or [i]/trails/musicalnotes.vmt[/i]. All of the files are basically named the exact same as that list, except there's no spaces. If you need additional help setting this up for the pointshop, lemme know!
+
+[b]Issues and things to note:[/b]
+
+1. The previews in the Pointshop looked a little weird when I test them. I assume this is the .vtf being weird. If you have any ideas on how to change/fix this, do tell me.
+
+2. If you have a suggestion for a trail, or want any of the colours changed, drop me a comment or friend request and I'll get right on it. 
+
+3. I'm still working through testing these on Singleplayer and there's still a couple I haven't examined. 'cuz of this, there may be some issues and if there is, once again, tell me so I can get that shit sorted. 
+
+4. I also do custom TTT icons. If you think you may be interested: I've done before: http://empyreangaming.co.uk/portfolio.html"
+}
